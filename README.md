@@ -22,4 +22,4 @@
     * **_option_** que puede tener 0, 1 o más _pcdata_.
     * **_answer_** que puede tener 1 o más _pcdata_.
     
-  Ambos archivos creados (_questions.xml_ y _questions.dtd_) se hallan incorporados al presente [_Github_](github.com).
+  Ambos archivos creados (_questions.xml_ y _questions.dtd_) se hallan incorporados al presente _Github_.
