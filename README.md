@@ -10,4 +10,4 @@ Como primera parte de la tarea se ha creado un archivo _xml_ que contiene 10 pre
 
 Finalizado el _xml_ se validará mediante un documento _dtd_ que crearemos al efecto.
 La funcionalidad del documento _dtd_ se comprueba a través de la web www.xmlvalidation.com, verificando que se halla bien formado y sin errores:
-
+![imagen HTML](valida-min.png)  
