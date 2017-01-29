@@ -8,8 +8,8 @@ Como primera parte de la tarea se ha creado un archivo _xml_ que contiene 10 pre
   * **_Select_**: Se elegirá la respuesta correcta entre muchas.
   * **_Multiple_**: Se deberán seleccionar todas las respuestas correctas.
 
- Finalizado el _xml_ se validará mediante un documento _dtd_ que crearemos al efecto.
- La funcionalidad del documento _dtd_ se comprueba a través de la web www.xmlvalidation.com, verificando que se halla bien formado y sin errores:
+Finalizado el _xml_ se validará mediante un documento _dtd_ que crearemos al efecto.
+La funcionalidad del documento _dtd_ se comprueba a través de la web www.xmlvalidation.com, verificando que se halla bien formado y sin errores:
 
 ![imagen HTML](valida-min.png)  
 
@@ -22,4 +22,4 @@ Así mismo, como requisitos, el fichero _xml_ debe:
     * **_option_** que puede tener 0, 1 o más _pcdata_.
     * **_answer_** que puede tener 1 o más _pcdata_.
     
- Ambos archivos creados (_questions.xml_ y _questions.dtd_) se hallan incorporados al presente _Github_.
+Ambos archivos creados (_questions.xml_ y _questions.dtd_) se hallan incorporados al presente _Github_.
