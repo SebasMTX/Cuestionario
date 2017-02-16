@@ -30,3 +30,5 @@ Usando el mismo cuestionario anterior, se deberá crear un archivo _XML Schema D
 Nuevamente se comprueba la funcionalidad del documento _xsd_ generado a través de la web www.xmlvalidation.com, verificando su correcta estructura y ausencia de errores:
 
 ![imagen HTML](valida_xsd-min.png) 
+
+Ambos archivos creados (questions_xsd.xml y questions.xsd) se hallan incorporados al presente Github.
