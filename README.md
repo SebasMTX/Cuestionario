@@ -1,4 +1,4 @@
-# Cuestionario XMLT y DTD
+# V1.0 Cuestionario XMLT y DTD
 
 Como primera parte de la tarea se ha creado un archivo _xml_ que contiene 10 preguntas con 5 tipos de formulario:
   
@@ -11,7 +11,7 @@ Como primera parte de la tarea se ha creado un archivo _xml_ que contiene 10 pre
 Finalizado el _xml_ se validará mediante un documento _dtd_ que crearemos al efecto.
 La funcionalidad del documento _dtd_ se comprueba a través de la web www.xmlvalidation.com, verificando que se halla bien formado y sin errores:
 
-![imagen HTML](valida-min.png)  
+![imagen HTML](valida_dtd-min.png)  
 
 Así mismo, como requisitos, el fichero _xml_ debe:
   
@@ -24,4 +24,9 @@ Así mismo, como requisitos, el fichero _xml_ debe:
     
 Ambos archivos creados (_questions_dtd.xml_ y _questions.dtd_) se hallan incorporados al presente _Github_.
 
-Añadido 
+# V1.1 Cuestionario XMLT y XSD
+
+Usando el mismo cuestionario anterior, se deberá crear un archivo _XML Schema Definition (documento XSD)_ describiendo la estructura del documento _XML_ y que lo valide.
+Nuevamente se comprueba la funcionalidad del documento _xsd_ generado a través de la web www.xmlvalidation.com, verificando su correcta estructura y ausencia de errores:
+
+![imagen HTML](valida_xsd-min.png) 
