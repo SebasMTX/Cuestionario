@@ -1,4 +1,4 @@
-# Cuestionario
+# Cuestionario XMLT y DTD
 
 Como primera parte de la tarea se ha creado un archivo _xml_ que contiene 10 preguntas con 5 tipos de formulario:
   
@@ -22,4 +22,6 @@ Así mismo, como requisitos, el fichero _xml_ debe:
     * **_option_** que puede tener 0, 1 o más _pcdata_.
     * **_answer_** que puede tener 1 o más _pcdata_.
     
-Ambos archivos creados (_questions.xml_ y _questions.dtd_) se hallan incorporados al presente _Github_.
+Ambos archivos creados (_questions_dtd.xml_ y _questions.dtd_) se hallan incorporados al presente _Github_.
+
+Añadido 
