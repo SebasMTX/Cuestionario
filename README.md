@@ -33,10 +33,23 @@ Nuevamente se comprueba la funcionalidad del documento _xsd_ generado a través 
 
 Ambos archivos creados (questions_xsd.xml y questions.xsd) se hallan incorporados al presente Github.
 
-# V1.2 Cuestionario HTML, CSS, XML y Javascript
+# V1.2 Cuestionario HTML, XML y Javascript
 
 Se incorporan tres archivos HTML vinculados entre ellos mediante un menú lateral y que contienen:
 
 * **_inicio.html_**: Página principal con las instrucciones del funcionamiento de la página y el acceso al formulario.
 * **_test.html_**: Página que contiene el formulario, referenciado al _xml_ y con los 5 tipos de pregunta detallados en la versión V1.0.
-* **_contacto.html_**: Página que posibilita el contacto con el autor.
+* **_contacto.html_**: Página que posibilita el contacto con el autor. **ACTUALMENTE NO FINALIZADA**
+
+Así mismo se incorpora una neva carpeta (_js_) que contiene el código _JavaScript_ que combina la información contenida en la página _XML_ con los selectores apropiados en la página _test.html_ con el fin de presentar adecuadamente el formulario. Al mismo tiempo el código _JavaScript_ realizará la corrección de cada una de las preguntas y presentará un resultado.
+
+# V1.3 Cuestionario final HTML, CSS, XML y Javascript
+
+Se incorpora a la nueva carpeta _css_ dos hojas, debidamente vinculadas en todos los _html_, que dotarán de estilo a todas las páginas de la web:
+
+* **_d.css**: Hoja de estilo para pantallas tipo pc.
+* **_m.css**: Hoja de estilo para dispositivos móviles.
+
+Al mismo tiempo que se realizan los ajustes de estilo se incorpora un logotipo identificativo en todos los _html_, cuya imagen se guarda en la carpeta _img_.
+
+
