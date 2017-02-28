@@ -35,6 +35,8 @@ Ambos archivos creados (questions_xsd.xml y questions.xsd) se hallan incorporado
 
 # V1.2 Cuestionario HTML, XML y Javascript
 
+Movidos todos los archivos de las versiones anteriores a la carpeta _oldXml_.
+
 Se incorporan tres archivos HTML vinculados entre ellos mediante un menú lateral y que contienen:
 
 * **_inicio.html_**: Página principal con las instrucciones del funcionamiento de la página y el acceso al formulario.
