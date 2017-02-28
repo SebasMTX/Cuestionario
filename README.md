@@ -32,3 +32,11 @@ Nuevamente se comprueba la funcionalidad del documento _xsd_ generado a través 
 ![imagen HTML](valida_xsd-min.png) 
 
 Ambos archivos creados (questions_xsd.xml y questions.xsd) se hallan incorporados al presente Github.
+
+# V1.2 Cuestionario HTML, CSS, XML y Javascript
+
+Se incorporan tres archivos HTML vinculados entre ellos mediante un menú lateral y que contienen:
+
+* **_inicio.html_**: Página principal con las instrucciones del funcionamiento de la página y el acceso al formulario.
+* **_test.html_**: Página que contiene el formulario, referenciado al _xml_ y con los 5 tipos de pregunta detallados en la versión V1.0.
+* **_contacto.html_**: Página que posibilita el contacto con el autor.
