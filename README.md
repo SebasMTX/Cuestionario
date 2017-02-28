@@ -54,6 +54,6 @@ Al mismo tiempo que se realizan los ajustes de estilo se incorpora un logotipo i
 
 Se identa todo el código creado y se valida a través de las webs _https://validator.w3.org/_ y _https://jigsaw.w3.org/css-validator/_, verificando la ausencia de errores de sintaxis.
 
-Finalizada la construcción del formulario se identa el código y se crea una nueva _branch_ en Github que contiene una versión _minified_.
+Finalizada la construcción del formulario se crea una nueva _branch_ en Github que contiene una versión _minified_.
 
 **La tarea se halla incompleta debido a sucesivos errores en el código _JavaScript_ en los intentos de implementar la corrección de las preguntas tipo _radio_**
