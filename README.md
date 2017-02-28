@@ -47,8 +47,8 @@ Así mismo se incorpora una neva carpeta (_js_) que contiene el código _JavaScr
 
 Se incorpora a la nueva carpeta _css_ dos hojas, debidamente vinculadas en todos los _html_, que dotarán de estilo a todas las páginas de la web:
 
-* **_d.css**: Hoja de estilo para pantallas tipo pc.
-* **_m.css**: Hoja de estilo para dispositivos móviles.
+* **_d.css_**: Hoja de estilo para pantallas tipo pc.
+* **_m.css_**: Hoja de estilo para dispositivos móviles.
 
 Al mismo tiempo que se realizan los ajustes de estilo se incorpora un logotipo identificativo en todos los _html_, cuya imagen se guarda en la carpeta _img_.
 
