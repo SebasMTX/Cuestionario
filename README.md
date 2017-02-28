@@ -52,4 +52,6 @@ Se incorpora a la nueva carpeta _css_ dos hojas, debidamente vinculadas en todos
 
 Al mismo tiempo que se realizan los ajustes de estilo se incorpora un logotipo identificativo en todos los _html_, cuya imagen se guarda en la carpeta _img_.
 
+Finalizada la construcción del formulario se identa el código y se crea una nueva _branch_ en Github que contiene una versión _minified_.
 
+**A fecha de hoy me ha sido imposible finalizar la corrección de las preguntas tipo _radio_ pese a probar diferentes opciones.
