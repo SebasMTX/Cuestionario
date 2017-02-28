@@ -54,4 +54,4 @@ Al mismo tiempo que se realizan los ajustes de estilo se incorpora un logotipo i
 
 Finalizada la construcción del formulario se identa el código y se crea una nueva _branch_ en Github que contiene una versión _minified_.
 
-**A fecha de hoy me ha sido imposible finalizar la corrección de las preguntas tipo _radio_ pese a probar diferentes opciones.
+**La tarea se halla incompleta debido a sucesivos errores en el código _JavaScript_ en los intentos de implementar la corrección de las preguntas tipo _radio_**
